@@ -1,0 +1,18 @@
+{
+  "name": "discord-xp-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvacord": "^5.2.3",
+    "discord-xp": "^1.1.16",
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.0.12"
+  }
+}
